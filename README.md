@@ -2,6 +2,7 @@
 TASK: Build a multivariate Ordinary Least Squares regression model to predict "TARGET_deathRate"
 
 
+
 DATA DICTIONARY:
 
 TARGET_deathRate: Dependent variable. Mean per capita (100,000) cancer mortalities(a)
@@ -75,6 +76,7 @@ BirthRate: Number of live births relative to number of women in county (b)
 (a): years 2010-2016
 
 (b): 2013 Census Estimates
+
 
 
 
